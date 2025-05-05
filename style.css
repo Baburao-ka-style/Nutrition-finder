@@ -1,0 +1,20 @@
+body{
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Hbakgrd{
+    font-family: sofia;
+    
+}
+
+.etdish, .butt, h1{
+    font-family: sofia;
+    font-style: bold;
+    color: white !important;
+    text-shadow: 0 0 100px black !important;
+}
+.bak{
+    background-color: rgba(0, 0, 0, 0.192);
+    padding: 10px;
+}
